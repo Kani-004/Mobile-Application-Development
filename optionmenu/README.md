@@ -128,6 +128,7 @@ public boolean onOptionsItemSelected(MenuItem item) {
 
 ## OUTPUT
 ![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/3ca8e22b-5150-4488-b1b3-f75e1ee65eb7)
+
 ![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/26c522bb-8afc-4b61-9043-21a1540bdf9a)
 ![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/d025437e-964e-424f-b308-ef0fc79e3bc9)
 
