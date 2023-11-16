@@ -1,12 +1,9 @@
 # Ex.No:10 To create a option menu to display menu items.
 
-
 ## AIM:
-
 To create a option menu to display menu items using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
-
 Latest Version Android Studio
 
 ## ALGORITHM:
@@ -130,19 +127,9 @@ public boolean onOptionsItemSelected(MenuItem item) {
 ~~~
 
 ## OUTPUT
-
-![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/0d9a954b-02ee-4747-9b93-5a3d2aee69b9)
-
-![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/d088fb95-1e07-4fed-9fd9-8d2764974372)
-
-![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/abcabe80-2690-402c-8801-ec26e990461d)
-
 ![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/3ca8e22b-5150-4488-b1b3-f75e1ee65eb7)
-
 ![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/26c522bb-8afc-4b61-9043-21a1540bdf9a)
-
 ![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/d025437e-964e-424f-b308-ef0fc79e3bc9)
-
 
 ## RESULT
 Thus a Simple Android Application to create a option menu to display menu items using Android Studio is developed and executed successfully.
