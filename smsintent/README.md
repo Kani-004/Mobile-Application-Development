@@ -1,17 +1,13 @@
 
 # Ex.No:6 Design an android application Send SMS using Intent.
 
-
 ## AIM:
-
 To create and design an android application Send SMS using Intent using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
-
 Android Studio(Latest Version)
 
 ## ALGORITHM:
-
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as smsintent and click Next. 
@@ -229,19 +225,9 @@ xmlns:tools="http://schemas.android.com/tools">
 ~~~
 
 ## OUTPUT
-
-![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/d01ffd72-f978-46e9-8e3a-8c225b7b1290)
-
-![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/b937c9a4-c9df-4ff6-9e3b-795c3cb94e28)
-
 ![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/d94ddb36-d505-45b3-80df-9dd6dcd3a7ca)
-
 ![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/1c252e22-8309-4c27-8f7c-73ef0a324b97)
 
-
-
-
-~~~
 # RESULT
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
-~~~
+
