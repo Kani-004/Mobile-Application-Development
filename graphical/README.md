@@ -103,6 +103,4 @@ protected void onCreate(Bundle savedInstanceState) {
 ![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/c3f9efc5-558a-4cf5-a798-de3e69ff432a)
 
 ## RESULT
-~~~
 Thus a Simple Android Application to create and design an android application that draws basic graphical primitives on the screen using Android Studio is developed and executed successfully.
-~~~
