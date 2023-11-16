@@ -1,17 +1,13 @@
 
 # Ex.No:12 Design an application that draws basic graphical primitives on the screen.
 
-
 ## AIM:
-
 To create and design an android application that draws basic graphical primitives on the screen using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
-
 Android Studio(Latest Version)
 
 ## ALGORITHM:
-
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as “graphical″ and click Next. 
@@ -103,10 +99,6 @@ protected void onCreate(Bundle savedInstanceState) {
 ~~~
 
 ## OUTPUT
-
-![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/03458ae1-26d6-40f0-b0f3-21e65dffa887)
-
-![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/32d63dba-8fa6-4c5f-84cc-5163dba7368f)
 
 ![image](https://github.com/Kani-004/Mobile-Application-Development/assets/129577149/c3f9efc5-558a-4cf5-a798-de3e69ff432a)
 
